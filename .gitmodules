@@ -2,3 +2,7 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/Silverdale-NomanNaeem/submodule.git
+
+[submodule "submodule2"]
+	path = submodule2
+	url = https://github.com/Silverdale-NomanNaeem/submodule2.git
