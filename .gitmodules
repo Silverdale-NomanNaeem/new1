@@ -2,6 +2,7 @@
 [submodule "submodule12"]
 	path = submodule12
 	url = git@github.com:Silverdale-NomanNaeem/submodule.git
+	path = "aabbca"
 
 [submodule "submodule2"]
 	path = submodule2
