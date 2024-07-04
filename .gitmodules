@@ -2,6 +2,7 @@
 [submodule "submodule"]
 	path = submodule
 	url = git@github.com:Silverdale-NomanNaeem/submodule.git
+	branch = new
 
 [submodule "submodule2"]
 	path = submodule2
