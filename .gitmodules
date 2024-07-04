@@ -1,18 +1,5 @@
 
-[submodule "submodule"]
-	path = submodule
-	url = https://github.com/Silverdale-NomanNaeem/submodule.git
-
 [submodule "submodule2"]
 	path = submodule2
-	url = https://github.com/Silverdale-NomanNaeem/submodule2.git
-
-[submodule "submodule"]
-	path = submodule
-	url = git@github.com:Silverdale-NomanNaeem/submodule.git
-	branch = test
-
-[submodule "submodule12"]
-	path = submodule12
-	url = git@github.com:Silverdale-NomanNaeem/submodule.git
-	branch = test
+	url = git@github.com:Silverdale-NomanNaeem/submodule2.git
+	branch = main
