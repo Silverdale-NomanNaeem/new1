@@ -7,3 +7,8 @@
 	path = submodule2
 	url = git@github.com:Silverdale-NomanNaeem/submodule2.git
 	branch = main
+
+[submodule "submodule"]
+	path = submodule
+	url = git@github.com:Silverdale-NomanNaeem/submodule.git
+	branch = test
