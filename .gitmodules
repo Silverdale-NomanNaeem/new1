@@ -6,4 +6,4 @@
 [submodule "submodule2"]
 	path = submodule2
 	url = git@github.com:Silverdale-NomanNaeem/submodule2.git
-	path = sme
+	branch = sme
