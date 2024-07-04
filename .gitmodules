@@ -6,3 +6,8 @@
 [submodule "submodule2"]
 	path = submodule2
 	url = https://github.com/Silverdale-NomanNaeem/submodule2.git
+
+[submodule "submodule"]
+	path = submodule
+	url = git@github.com:Silverdale-NomanNaeem/submodule.git
+	branch = test
