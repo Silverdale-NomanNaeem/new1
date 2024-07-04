@@ -6,3 +6,7 @@
 [submodule "submodule2"]
 	path = submodule2
 	url = git@github.com:Silverdale-NomanNaeem/submodule2.git
+
+[submodule "submodule234"]
+	path = submodule234
+	url = git@github.com:Silverdale-NomanNaeem/submodule2.git
