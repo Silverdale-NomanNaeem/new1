@@ -11,3 +11,7 @@
 [submodule "submodule"]
 	path = submodule
 	url = git@github.com:Silverdale-NomanNaeem/submodule.git
+
+[submodule "asd"]
+	path = asd
+	url = git@github.com:as/sdf.git
